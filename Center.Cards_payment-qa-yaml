@@ -1,0 +1,11 @@
+build:
+  version: "1.0.0-qa"
+
+cards:
+  message: "This is the QA environment for Cards Service"
+  contactDetails:
+    name: "Application Support"
+    email: "cards-support@gmail.com"
+    onCallSupport:
+      - "+91 7558547731"
+      - "+91 9999999999"
