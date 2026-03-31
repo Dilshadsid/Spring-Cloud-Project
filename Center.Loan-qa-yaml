@@ -1,0 +1,11 @@
+build:
+  version: "1.0.0-qa"
+
+loans:
+  message: "This is the QA environment for Loan Service"
+  contactDetails:
+    name: "Application Support"
+    email: "loan-support@gmail.com"
+    onCallSupport:
+      - "+91 1234567890"
+      - "+91 1987654321"
