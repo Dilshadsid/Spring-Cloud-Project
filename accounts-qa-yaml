@@ -1,0 +1,11 @@
+build:
+  version: 1.0.0-qa
+
+accounts:
+  message: "This is the prod environment for account Service"
+  contactDetails:
+    name: "Application Support"
+    email: "application-support@gmail.com"
+    onCallSupport:
+      - "+91 7558547731"
+      - "+91 9999999999"
