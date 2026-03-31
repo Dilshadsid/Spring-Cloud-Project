@@ -1,0 +1,11 @@
+build:
+  version: "1.0.0-prod"
+
+loans:
+  message: "This is the production environment for Loan Service"
+  contactDetails:
+    name: "Production Support"
+    email: "loan-prod-support@gmail.com"
+    onCallSupport:
+      - "+91 1213141516"
+      - "+91 7777766666"
