@@ -1,0 +1,11 @@
+build:
+  version: "1.0.0-prod"
+
+cards:
+  message: "This is the production environment for Cards Service"
+  contactDetails:
+    name: "Production Support"
+    email: "cards-prod-support@gmail.com"
+    onCallSupport:
+      - "+91 8888888888"
+      - "+91 7777777777"
