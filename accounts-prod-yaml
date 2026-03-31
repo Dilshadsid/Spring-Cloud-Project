@@ -1,0 +1,11 @@
+build:
+  version: 1.0.0-prod
+
+accounts:
+  message: "This is the production environment for account Service"
+  contactDetails:
+    name: "Production Support"
+    email: "prod-support@gmail.com"
+    onCallSupport:
+      - "+91 8888888888"
+      - "+91 7777777777"
