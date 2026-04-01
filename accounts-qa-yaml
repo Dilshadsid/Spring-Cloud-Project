@@ -4,7 +4,7 @@ build:
 accounts:
   message: "This is the prod environment for account Service"
   contactDetails:
-    name: "Application Support"
+    name: "{cipher}ea6b0c42d61ce85076d5cb2a08c5b13387dd37f4a7271b358395b62483d6e6af5517ee0bf74d2b77b1484fd4d6bfae65"
     email: "application-support@gmail.com"
     onCallSupport:
       - "+91 7558547731"
